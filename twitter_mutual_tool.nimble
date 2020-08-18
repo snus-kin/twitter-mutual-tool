@@ -5,7 +5,7 @@ author        = "snus-kin"
 description   = "unfollow your unfollowers"
 license       = "GPL-3.0"
 srcDir        = "src"
-bin           = @["twitter_unfollow_nim"]
+bin           = @["twitter_mutual_tool"]
 
 
 
