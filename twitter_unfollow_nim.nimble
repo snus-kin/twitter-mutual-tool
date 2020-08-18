@@ -12,3 +12,4 @@ bin           = @["twitter_unfollow_nim"]
 # Dependencies
 
 requires "nim >= 1.2.6"
+requires "twitter"
